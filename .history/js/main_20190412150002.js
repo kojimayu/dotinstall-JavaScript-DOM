@@ -3,6 +3,6 @@
 {
   const div = document.querySelector('div');
 
-  div.className = 'box border-pink';
+  div.className = 'border-pink';
 
 }
