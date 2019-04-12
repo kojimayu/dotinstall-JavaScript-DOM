@@ -7,8 +7,8 @@
   // console.log(ul.children); //li
   // console.log(ul.children[0]); //li
   
-  for (let i = 0; i < ul.children.length; i++) {
-    console.log(ul.children[i].textContent);
+  for (let i = 0; i < ul.length; i++) {
+    console.log(ul.children);
     
   }
 }
