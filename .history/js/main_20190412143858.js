@@ -6,5 +6,5 @@
   // h1.title = 'Changed!';
 
   h1.style.color = 'gray';
-  h1.style.backgroundColor = 'pink';
+  h1.style.backgroundColor = 'gray';
 }
