@@ -15,6 +15,4 @@
 
   const copy = p.cloneNode(true);
   document.body.insertBefore(copy, h2);
-
-  document.body.removeChild(h2);
 }
