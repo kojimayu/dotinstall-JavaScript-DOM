@@ -10,7 +10,7 @@
   document.body.appendChild(p);
   
   const h2 =document.createElement('h2');
-  h2.textContent ='Sub Title';
-  document.body.insertBefore(h2, p);
+  h2.textContent ='Hello, Hello hello...';
+  document.body.appendChild(h2);
 
 }
