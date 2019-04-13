@@ -5,7 +5,6 @@
 
   button.addEventListener('dblclick', () => {
     console.log('clicked!');
-    console.log();
     
   });
 }

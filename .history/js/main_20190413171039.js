@@ -3,9 +3,8 @@
 {
   const button = document.querySelector('button');
 
-  button.addEventListener('dblclick', () => {
+  button.addEventListener('click', () => {
     console.log('clicked!');
-    console.log();
     
   });
 }
