@@ -8,7 +8,7 @@
   console.log(textarea.value);
 
   // text.focus();
-  // text.select();
-  text.disabled = true;
+  text.select();
+  text.disabled = ture;
 
 }

@@ -7,8 +7,6 @@
   console.log(text.value);
   console.log(textarea.value);
 
-  // text.focus();
-  // text.select();
-  text.disabled = true;
-
+  text.focus();
+  
 }

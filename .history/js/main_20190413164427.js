@@ -9,6 +9,6 @@
 
   // text.focus();
   // text.select();
-  text.disabled = true;
+  text.disabled = ture;
 
 }
